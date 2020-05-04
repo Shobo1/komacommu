@@ -1,24 +1,16 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Komacommu
+# サイト概要
+当Webサイトは将棋をはじめたのに、コミュニケーションをとる仲間を作りたい方向けに作成しました。
+会員登録していただいたユーザーさんには、将棋の局面写真投稿、コメントなどが無料で使用する事ができます。
+# サイトテーマ
+将棋を通じてのコミュニケーションサイト
+# テーマを選んだ理由
+私が将棋をはじめた頃は、現在みたいにメディアでとりあげられる事が少なく、将棋の情報を集めるのは大変苦労しました。
+社会人から将棋を始めたので、同じ趣味の仲間を探すのがとても苦労しました。
+私と同じ気持ちで大人から将棋を初めて、仲間を集めてコミュニケーションをとりたい方向けに少しでもきっかけになればと思い作成しました。
+# ターゲットユーザー
+社会人から将棋をはじめて仲間を集めてコミュニケーションをとりたい方向け
+主な利用シーン
+# 設計
+# 機能一覧
+https://docs.google.com/spreadsheets/d/1PirdJ5OJYIYzRzZirMBf2j_AcZlFmGXePGyotgnwmew/edit#gid=0
